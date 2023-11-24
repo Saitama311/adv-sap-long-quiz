@@ -1,10 +1,10 @@
 ## Long Quiz in Advanced Systems Integration & Architecture
 1. Define Service Oriented Architecture (SOA).
-ANSWER: Service oriented architecture it is a design pattern that it is providing the application functionallity and it is a service of an other application not the traditional way where the people of the company is seperate to others one has teeam for ui for business and for the database has team also.
+ANSWER: Service oriented architecture it is a design pattern that it is providing the application functionallity and it is a service of an other application not the traditional way where the people of the company is seperate to others one has teeam for UI for business and for the database has team also.
 2. List and discuss the characteristics of SOA.
-ANSWER: you can mix and match change and add a service but you need not to affect the other service because it can have a system error, its good because you can use again the service like mix and match and you pair it to other service 
+ANSWER: you can mix and match change and add a service but you need not to affect the other service because it can have a System error, its good because you can use again the service like mix and match and you pair it to other service 
 3. Define Microservices.
-ANSWER: it has a  role that is not available to others it is small service and also it is independent and it has small team
+ANSWER: it has a  role that is not available to others it is small service and also it is independent and it has small teams.
 4. List and discuss the benefits of using Microservices.
 Answer: flexibility it is flexible because it can fix problem with one service and you can deploy a small amount of people it has better security 
 5. List and discuss the similarities and differences of SOA and Microservices.
